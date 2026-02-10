@@ -52,6 +52,11 @@ The Three-Player Tic Tac Toe Game is a console-based application developed in C+
 This project demonstrates advanced logical reasoning, effective use of arrays, functions, loops, and conditional statements, and showcases the ability to modify classic algorithms to support multi-player interaction. The code is structured in a modular and readable manner to ensure maintainability and scalability.
 
 **Stack:** C++, Console-Based Application, Arrays, Functions, Control Structures, ASCII Character Representation, Game Logic Design
+###  [AI-Based Scientific Calculator (C++)](https://github.com/UMAIR7592/AI--SIENTIFIC--CALUCLATOR.git)
+The AI-Based Scientific Calculator is a console-based application developed in C++ that performs advanced mathematical and scientific computations using intelligent input handling. The system accepts user-friendly, natural-language-style expressions and evaluates them accurately by applying operator precedence (BODMAS) and mathematical rules.
+
+The project demonstrates strong problem-solving skills through the implementation of expression parsing, logical validation, and custom evaluation algorithms. The calculator supports basic arithmetic, trigonometric, logarithmic, and exponential operations, and is designed with a modular architecture to ensure accuracy, scalability, and maintainability.
+**stack:*Expression Parsing, BODMAS Rule Implementation, Modular Programming, Mathematical Algorithms, Console-Based UI
 ##  GitHub Activity & Stats
 
 <img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UMAIR7592&theme=transparent" />
