@@ -2,7 +2,8 @@
 
 # Muhammad Umair
 
-**AI Engineer**
+**Artificial Intelligence Engineer**  
+*Machine Learning Systems · Intelligent Software · Algorithmic Design*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shoaib-me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://www.umairimran.codes/)
@@ -12,78 +13,137 @@
 
 ---
 
-## About Me
+## Executive Profile
 
-I build web applications and AI-powered tools that solve real problems. My background spans full-stack development, machine learning engineering, and cloud infrastructure—I'm most interested in projects where these disciplines intersect.
+I am an **Artificial Intelligence Engineer** with a strong focus on **building precise, reliable, and maintainable intelligent systems**. My expertise lies in converting theoretical AI and machine learning concepts into **well-architected software solutions** that operate correctly under real-world constraints.
 
-Currently focused on scalable systems architecture, real-time data processing, and applying ML/NLP to production environments. I believe good software is measured by its impact, maintainability, and the problems it solves.
+My engineering philosophy prioritizes:
+- Algorithmic correctness over experimentation
+- System clarity over unnecessary complexity
+- Long-term maintainability over short-term results
 
----
-
-## What I Work With
-
-**Frontend**  
-React, Next.js, TypeScript, Vue.js, Tailwind CSS
-
-**Backend**  
-Node.js, Python, Django, FastAPI, Express.js, GraphQL
-
-**AI/ML**  
-TensorFlow, PyTorch, scikit-learn, NLP pipelines, model deployment
-
-**Infrastructure & Data**  
-AWS (EC2, Lambda, S3, RDS), Docker, Kubernetes, PostgreSQL, MongoDB, Redis
-
-**DevOps**  
-CI/CD with GitHub Actions, Docker containerization, Linux server administration
+I work extensively with **logic-intensive systems, applied machine learning, and AI-assisted computation**, where correctness, interpretability, and structure are critical.
 
 ---
 
-## Featured Projects
+## Areas of Expertise
 
-### [Vehicle Rental Management System (C++)](https://github.com/UMAIR7592/Vehichle-Rental-System.git) 
-Developed a C++ based Vehicle Rental Management System that supports multiple vehicle types, dynamic rent calculation, and damage penalty handling.
-Implemented structured programming, file handling, and user-friendly console interaction.
-**Stack:* C++, File Handling, Console-Based Systems, Modular Design
+### Artificial Intelligence & Machine Learning
+- Supervised and Unsupervised Learning
+- Classical Machine Learning Algorithms
+- Feature Engineering and Model Evaluation
+- Rule-Based and Decision-Oriented Systems
+- Explainable AI (XAI) Fundamentals
 
-### [Console-Based Tic Tac Toe Game using C++](https://github.com/UMAIR7592/Tic-Tac-Toe-Game-3-players.git)
-The Three-Player Tic Tac Toe Game is a console-based application developed in C++ that extends the traditional game by supporting three players, each represented using distinct ASCII characters. The system manages turn rotation, validates player input, dynamically updates the game board, and evaluates winning or draw conditions based on customized game logic.
+### Deep Learning & Frameworks
+- TensorFlow
+- PyTorch
+- scikit-learn
+- Neural Network Fundamentals
+- Model Training, Validation, and Inference
 
-This project demonstrates advanced logical reasoning, effective use of arrays, functions, loops, and conditional statements, and showcases the ability to modify classic algorithms to support multi-player interaction. The code is structured in a modular and readable manner to ensure maintainability and scalability.
+### Programming & Algorithm Engineering
+- **C++** — performance-focused and logic-heavy systems
+- **Python** — AI, ML pipelines, and automation
+- Data Structures and Algorithms
+- Mathematical and Scientific Computing
+- Expression Parsing and Symbolic Evaluation
 
-**Stack:** C++, Console-Based Application, Arrays, Functions, Control Structures, ASCII Character Representation, Game Logic Design
-###  [AI-Based Scientific Calculator (C++)](https://github.com/UMAIR7592/AI--SIENTIFIC--CALUCLATOR.git)
-The AI-Based Scientific Calculator is a console-based application developed in C++ that performs advanced mathematical and scientific computations using intelligent input handling. The system accepts user-friendly, natural-language-style expressions and evaluates them accurately by applying operator precedence (BODMAS) and mathematical rules.
+### AI Systems & Backend Integration
+- FastAPI
+- Django
+- RESTful API Design
+- AI Model Integration Concepts
+- Modular and scalable architecture patterns
 
-The project demonstrates strong problem-solving skills through the implementation of expression parsing, logical validation, and custom evaluation algorithms. The calculator supports basic arithmetic, trigonometric, logarithmic, and exponential operations, and is designed with a modular architecture to ensure accuracy, scalability, and maintainability.
-**stack:*Expression Parsing, BODMAS Rule Implementation, Modular Programming, Mathematical Algorithms, Console-Based UI
-##  GitHub Activity & Stats
+### Engineering Tools & Environment
+- Git & GitHub
+- Linux-based development
+- Docker (foundational)
+- File Handling and Persistent Storage
+- Console and system-level applications
+
+---
+
+## Selected Engineering Projects
+
+### Vehicle Rental Management System — C++
+**Repository:** https://github.com/UMAIR7592/Vehichle-Rental-System.git  
+
+A **logic-driven management system** modeling real-world vehicle rental operations using structured C++ design.
+
+**Key Engineering Contributions**
+- Hierarchical vehicle and model architecture
+- Dynamic rental pricing computation
+- Damage assessment and penalty enforcement
+- Persistent storage via file handling
+- Modular and extensible codebase
+
+**Core Competencies Demonstrated**  
+Algorithmic logic · Data persistence · System modeling · Software structure
+
+---
+
+### Three-Player Tic Tac Toe Engine — C++
+**Repository:** https://github.com/UMAIR7592/Tic-Tac-Toe-Game-3-players.git  
+
+An advanced **game logic engine** extending the classical Tic Tac Toe algorithm to support three players.
+
+**Key Engineering Contributions**
+- Deterministic turn scheduling
+- Robust input validation
+- Custom win and draw evaluation logic
+- Clear separation of game state and control logic
+
+This project demonstrates the ability to **adapt classical algorithms to non-trivial constraints** without compromising correctness.
+
+---
+
+### AI-Inspired Scientific Calculator — C++
+**Repository:** https://github.com/UMAIR7592/AI--SIENTIFIC--CALUCLATOR.git  
+
+A **scientific computation engine** capable of evaluating human-readable mathematical expressions with strict rule enforcement.
+
+**Key Engineering Contributions**
+- Intelligent expression parsing
+- BODMAS-compliant evaluation
+- Custom mathematical algorithms
+- Comprehensive error handling and validation
+
+This project reflects strong **algorithmic reasoning** and structured problem decomposition.
+
+---
+
+## GitHub Metrics
 
 <img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UMAIR7592&theme=transparent" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UMAIR7592&theme=transparent" />
 
 ---
 
-## Current Focus
+## Current Technical Focus
 
-- Building production ML systems with focus on reliability and observability
-- Exploring serverless architectures for cost-effective scaling
-- Contributing to open source projects in the TypeScript/Python ecosystem
-- Improving my understanding of distributed systems and database optimization
+- Strengthening theoretical foundations in Machine Learning
+- Designing logic-centric AI systems
+- Improving algorithmic efficiency and correctness
+- Transitioning AI solutions toward production readiness
+- Studying Explainable AI and model interpretability
 
 ---
 
-## Open to Opportunities
+## Professional Collaboration
 
-I'm interested in collaborating on challenging technical projects, particularly those involving:
+I am open to collaboration on:
+- Artificial Intelligence and Machine Learning systems
+- Research-oriented engineering projects
+- Algorithm-intensive software development
+- Intelligent automation solutions
+- Open-source AI initiatives
 
-- Complex full-stack web applications with real-time requirements
-- AI/ML integration into production systems
-- High-performance backend architecture
-- Developer tools and automation
+**Email:** ui9090er@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/muhammad-shoaib-me  
+**Portfolio:** https://www.umairimran.codes  
 
-**Email:** [ui9090er@gmail.com](mailto:shoaibimran4569@gmail.com)  
-**LinkedIn:** [muhammad-shoaib-me](www.linkedin.com/in/umair-me)  
-**Portfolio:** [shoaibimran.codes](https://www.umairimran.codes/)
+---
 
-
+*Engineering intelligent systems with precision, discipline, and intent.*
