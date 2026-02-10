@@ -46,10 +46,12 @@ Developed a C++ based Vehicle Rental Management System that supports multiple ve
 Implemented structured programming, file handling, and user-friendly console interaction.
 **Stack:* C++, File Handling, Console-Based Systems, Modular Design
 
-### [Enterprise SQL Framework for Scalable Data Analytics](https://github.com/ShoaibImranTech/ShoaibImranTech.git)
-Built a production-grade SQL framework providing complete analytics infrastructure for data-driven organizations. Architected with modular schema design, optimized query patterns, and pre-built analytical views for immediate business intelligence deployment.
+### [Console-Based Tic Tac Toe Game using C++](https://github.com/UMAIR7592/Tic-Tac-Toe-Game-3-players.git)
+The Three-Player Tic Tac Toe Game is a console-based application developed in C++ that extends the traditional game by supporting three players, each represented using distinct ASCII characters. The system manages turn rotation, validates player input, dynamically updates the game board, and evaluates winning or draw conditions based on customized game logic.
 
-**Stack:** PostgreSQL, Advanced SQL (CTEs, Window Functions), Dimensional Modeling, Analytics Engineering, BI Integration
+This project demonstrates advanced logical reasoning, effective use of arrays, functions, loops, and conditional statements, and showcases the ability to modify classic algorithms to support multi-player interaction. The code is structured in a modular and readable manner to ensure maintainability and scalability.
+
+**Stack:** C++, Console-Based Application, Arrays, Functions, Control Structures, ASCII Character Representation, Game Logic Design
 ##  GitHub Activity & Stats
 
 <img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UMAIR7592&theme=transparent" />
